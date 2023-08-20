@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KamillaAbazova
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React, Redux
+- 👋 Hi, I’m Kamilla 
+- 👀 I’m interested in cooking, walking, swimming
+- 🌱 I’m currently learning React, Redux and Node
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
